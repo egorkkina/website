@@ -2,7 +2,8 @@
 var CURRENT_CACHES = {
   css:'style.css',
   js:'script.js',
-  site: 'index.html'
+  site: 'index.html',
+  img: 'Shape.svg', 'Splines.png', 'comp.svg', 'left-slider.png', 'lest-slider.svg', 'logo.svg', 'mdi-light_rss.svg', 'printer.svg', 'students.jpg', 'telega.svg', 'ков1.jpg', 'ков6.jpeg', 'конференц-зал.jpg', 'нефикс.jpg', 'переговорная.jpg', 'android-icon-36x36.png', 'android-icon-48x48.png', 'android-icon-72x72.png', 'android-icon-96x96.png', 'android-icon-144x144.png', 'android-icon-192x192.png'
 };
 
 self.addEventListener('install', (event) => {
